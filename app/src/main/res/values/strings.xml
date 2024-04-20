@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">জমিন সেবা</string>
+    <string name="Yes">বুঝতে পেরেছি !</string>
+    <string name="home"> হোম এ ফিরে যান !</string>
+    <string name="drawer_close">close drawer</string>
+    <string name="drawer_open">open drawer</string>
+
+</resources>

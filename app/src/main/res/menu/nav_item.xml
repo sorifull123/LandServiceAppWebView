@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:id="@+id/group1">
+
+    <item android:title="আরো অ্যাপস"
+        app:iconTint="@color/black"
+        android:checkable="true"
+        android:icon="@drawable/more"
+        android:id="@+id/moreApp"
+        />
+
+
+    <item android:title="শেয়ার অ্যাপস"
+        app:iconTint="@color/black"
+        android:checkable="true"
+        android:icon="@drawable/share"
+        android:id="@+id/shareApp"
+        />
+
+
+
+    <item android:title="এপপ্সটিকে রেটিং দিন"
+        android:checkable="true"
+        app:iconTint="@color/black"
+        android:id="@+id/rating"
+        android:icon="@drawable/rating"
+
+        />
+    </group>
+<group  android:id="@+id/group2">
+
+
+    <item android:title="গোপনীয়তা নীতি"
+        app:iconTint="@color/black"
+        android:checkable="true"
+        android:id="@+id/PrivacyPolicy"
+        android:icon="@drawable/privecy"
+        />
+
+
+
+</group>
+
+
+
+
+
+
+
+
+</menu>

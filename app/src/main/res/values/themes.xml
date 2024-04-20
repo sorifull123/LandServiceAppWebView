@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.LandService" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="android:statusBarColor">#2386C1</item>
+        <item name="android:fontFamily">@font/kalpurush</item>
+
+
+    </style>
+
+    <style name="Theme.LandService" parent="Base.Theme.LandService" />
+</resources>
